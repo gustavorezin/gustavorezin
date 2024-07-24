@@ -9,16 +9,24 @@
    <a href="https://github.com/gustavorezin">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorezin&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
--->
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Typescript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img align="center" alt="ReactNative" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img align="center" alt="Angular" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img align="center" alt="Spring" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
+  <img align="center" alt="Next.js" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+  <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
 </div>
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,spring&perline=5" />
+  </a>
+</p>
 
 <br>
 
