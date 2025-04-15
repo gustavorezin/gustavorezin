@@ -1,5 +1,5 @@
 <div align="center">
-   Welcome to my profile! 👨🏻‍💻
+   Bem vindo ao meu perfil! 👨🏻‍💻
 </div>
 
 <br>
@@ -21,20 +21,19 @@
   <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
 </div>
 
-
+-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,spring&perline=5" />
   </a>
 </p>
 
+<!--
 <br>
-
 <div align="center">
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gustavorezin&theme=neon-dark&hide_border=true&background=DD272700" />
 </div>
-
 -->
 
 <br>
