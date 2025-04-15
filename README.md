@@ -20,7 +20,7 @@
   <img align="center" alt="Next.js" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
   <img align="center" alt="Node.js" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
 </div>
--->
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,6 +34,8 @@
   <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=gustavorezin&theme=neon-dark&hide_border=true&background=DD272700" />
 </div>
+
+-->
 
 <br>
 
